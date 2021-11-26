@@ -1,0 +1,32 @@
+
+.flex-container {
+    background-color: aqua;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    display:flex;
+   
+}
+
+   
+.items {
+    display: flex;
+    background-color: cornsilk;
+    border: 2px solid black;
+    flex:1;
+    
+   
+}
+
+.main {
+    display:flex;
+    background-color: darkcyan;
+    height: 600px;
+    text-emphasis-color: white;
+    justify-content: space-between;
+}
+
+.h1 {
+    text-orientation: sideways-right;
+    text-decoration-color: whitesmoke;
+}
